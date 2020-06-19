@@ -7,6 +7,7 @@
 * [官方文档](https://flutter.dev/)
 * [官方中文文档](https://flutter.cn/)
 * [Flutter中文网](https://flutterchina.club/)
+* [Flutter实战](https://book.flutterchina.club/)
 
 ## 笔记
 
