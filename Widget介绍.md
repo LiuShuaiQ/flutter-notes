@@ -17,6 +17,8 @@ stateless widget 没有内部状态. Icon、 IconButton, 和Text 都是无状态
 
 ## 常用组件
 
+flutter有非常多的Widget,界面元素为Widget,间距/对齐方式都是Widget,包括之后看到的路由都是Widget的一种,下面给出了一些常用的组件实例,更多的Widget及其用法请参考官方文档<https://flutter.dev/docs/reference/widgets>,中文参考文档:<https://flutterchina.club/widgets/>
+
 - Icon  --图标  
     ```dart
     Icon(
