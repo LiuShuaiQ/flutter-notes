@@ -9,6 +9,7 @@
 * [Hello Flutter](./HelloFlutter.md)
 * [Widget介绍](./Widget介绍.md)
 * [页面路由](./页面路由.md)
+* [Provider状态管理](./Provider状态管理.md)
 
 ## Flutter相关参考文档
 
